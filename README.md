@@ -4,9 +4,7 @@ An artificial marketplace simulator that supports double-sided combinatorial auc
 
 ## Author ##
 
-Ikki Fujiwara, Ph.D.
-National Institute of Informatics
-Japan
+Ikki Fujiwara, Ph.D. (National Institute of Informatics, Japan)
 
 ## Reference ##
 
@@ -15,16 +13,16 @@ Japan
 
 ## Source ##
 
-Newest: https://github.com/ikfj/wmart/
-Former: http://code.google.com/p/wmart/
++ Newest: https://github.com/ikfj/wmart/
++ Former: http://code.google.com/p/wmart/
 
 ## Requirements ##
 
 + Java 1.5 or later
-+ Solver, any one of:
-++ CPLEX 10.0 (Linux) http://www-01.ibm.com/software/integration/optimization/cplex-optimizer/
-++ lp_solve 5.5 (Linux) http://tech.groups.yahoo.com/group/lp_solve/
-++ lp_solve 5.1 (Windows) http://tech.groups.yahoo.com/group/lp_solve/
++ Solver library (CPLEX or lp_solve)
+
++ CPLEX 10.0 (Linux) http://www-01.ibm.com/software/integration/optimization/cplex-optimizer/
++ lp_solve 5.5 (Linux) / lp_solve 5.1 (Windows) http://tech.groups.yahoo.com/group/lp_solve/
 
 ## Compile ##
 
