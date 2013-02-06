@@ -44,7 +44,7 @@ Note: all other values may have no effect.
 ## Run ##
 
 	$ cd wmart/work/
-	$ java WMartSimulator <seed> <maxDays> <daysForward> <membersFile> [<parameters>]
+	$ java -jar WMartSimulator <seed> <maxDays> <daysForward> <membersFile> [<parameters>]
 
 Java may require sufficient options depending on your environment.
 For example:
