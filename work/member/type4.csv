@@ -1,0 +1,7 @@
+LoginName,Password,Attribute,Connection,Access,RealName,SystemParameters,Seed,InitialCash,TradingUnit,FeePerUnit,MarginRate,MaxLoan,Interest
+S1,passwd1,Machine,Local,,org.wmart.agent.WDualSellerAgent,price=1:volume=100:good=A,1,1000000000,1000,0,300000,30000000,0.1
+S2,passwd2,Machine,Local,,org.wmart.agent.WDualSellerAgent,price=1:volume=100:good=B,2,1000000000,1000,0,300000,30000000,0.1
+S3,passwd3,Machine,Local,,org.wmart.agent.WDualSellerAgent,price=1:volume=100:good=C,3,1000000000,1000,0,300000,30000000,0.1
+S4,passwd4,Machine,Local,,org.wmart.agent.WDualSellerAgent,price=1:volume=100:good=D,4,1000000000,1000,0,300000,30000000,0.1
+S5,passwd5,Machine,Local,,org.wmart.agent.WDualSellerAgent,price=1:volume=100:good=E,5,1000000000,1000,0,300000,30000000,0.1
+B1,passwd6,Machine,Local,,org.wmart.agent.WDemandBuyerAgentType4,,6,1000000000,1000,0,300000,30000000,0.1
